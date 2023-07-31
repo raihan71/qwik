@@ -7,7 +7,7 @@ export default component$(() => {
     <div class={["container", styles.hero]}>
       <ImgThunder class={styles["hero-image"]} />
       <h1>
-       Welcome
+       Welcome everyone
       </h1>
       <p>Have fun building your App with Qwik.</p>
       <div class={styles["button-group"]}>
@@ -65,14 +65,14 @@ export default component$(() => {
             setTimeout(shoot, 400);
           }}
         >
-          Time to celebrate
+          Hitung
         </button>
         <a
           href="https://qwik.builder.io/docs"
           target="_blank"
           class="button button-dark"
         >
-          Explore the docs
+          Dokumentasi
         </a>
       </div>
     </div>
