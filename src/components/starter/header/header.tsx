@@ -17,7 +17,7 @@ export default component$(() => {
               href="https://qwik.builder.io/docs/components/overview/"
               target="_blank"
             >
-              Docs
+              Home
             </a>
           </li>
           <li>
@@ -25,7 +25,7 @@ export default component$(() => {
               href="https://qwik.builder.io/examples/introduction/hello-world/"
               target="_blank"
             >
-              Examples
+              Help
             </a>
           </li>
           <li>
@@ -33,7 +33,7 @@ export default component$(() => {
               href="https://qwik.builder.io/tutorial/welcome/overview/"
               target="_blank"
             >
-              Tutorials
+              About
             </a>
           </li>
         </ul>
